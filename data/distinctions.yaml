@@ -1,0 +1,16 @@
+personality:
+  - foo
+  - bar
+  - baz
+feature:
+  - alpha
+  - bravo
+  - charlie
+passion:
+  - uno
+  - dos
+  - tres
+fear:
+  - big
+  - small
+  - here

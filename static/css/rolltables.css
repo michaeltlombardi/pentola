@@ -1,0 +1,30 @@
+table.rolltable th {
+  text-align: center;
+  font-weight: bold;
+  background-color: #6F468F;
+  color: #fff;
+}
+table.rolltable th:hover, table.rolltable td:hover {
+  background-color: #A264D2;
+}
+table.rolltable td {
+  text-align: center;
+  border: 0;
+}
+
+table.rolltable td.selected {
+  background-color: #6F468F;
+  color: #fff;
+  font-weight: bold;
+}
+table.rolltable tr:nth-child(even) {
+  background-color: #C4ABD8;
+}
+
+table.rolltable caption button {
+  padding: 5px;
+  color: #A264D2;
+  float: left;
+  display: inline-block;
+  left: 10px;
+}
