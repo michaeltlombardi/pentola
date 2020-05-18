@@ -85,7 +85,14 @@ function setResultText(tableName) {
 function toggleTableCollapse(tableName) {
   var collapser = document.getElementById(`rolltable-${tableName}-collapser`)
   var table = getRollTable(tableName);
-  var body = table.lastElementChild
-  body.hidden = !body.hidden
-  
+  var body = table.lastElementChild;
+
+  body.hidden = !body.hidden;
+
+  // Toggle the button view, which is a font-awesome icon declaration
+  if (collapser.firstElementChild.className.match("down")) {
+    collapser.firstElementChild.className = "fas fa-caret-right";
+  } else {
+    collapser.firstElementChild.className = "fas fa-caret-down";
+  }
 }
