@@ -31,7 +31,7 @@ None of Tarasi's skills or her vocation apply to this action, so she can't add a
 
 **Scenario 2:** Picking a Lock
 
-In this case, Tarasi has no skills that apply to this action, but her vocation does - so she can add that bonus to this test.
+In this case, Tarasi has no skills that apply to this action, but her vocation does—so she can add that bonus to this test.
 
 **Scenario 3:** Appraising a Lock
 
@@ -65,7 +65,7 @@ _Note that this includes the automatic 10% skill bonus in Crafting every Pentola
 {{< /aside >}}
 
 {{< aside mechanical "Skills and Ambiguity" >}}
-Note that some of the skills overlap or seem a bit random - it is intended that you pick skills that you want your character to specialize in, then use those specializations to solve problems.
+Note that some of the skills overlap or seem a bit random—it is intended that you pick skills that you want your character to specialize in, then use those specializations to solve problems.
 The list is freeform so you can capture _exactly_ what makes your character yours.
 
 You can determine if a skill is too broad mostly by judgement:
@@ -81,7 +81,7 @@ You can also swing the other way and go for more vague skills that apply more br
 Sometimes you'll want to represent that a character is knowledgeable rather than skilled in a particular action.
 This does _not_ imply that there are no actions to test for with a given skill!
 Knowledge of medicine might help you set a bone or identify an illness or determine someone's overall hardiness.
-Similarly, expertise in wrestling will convey knowledge about things outside of being able to grapple - they'll pick up kinesiology, reading people, etc.
+Similarly, expertise in wrestling will convey knowledge about things outside of being able to grapple—they'll pick up kinesiology, reading people, etc.
 Reward characters for specializing!
 
 If a character's skill ranking is comprehensive, consider that they automatically know anything an apprentice in that field might know. For everything else, make them test.

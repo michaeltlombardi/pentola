@@ -39,7 +39,7 @@ To trigger the card's effect you must tear it in half, destroying it irrecoverab
 If the value of the favor card is _less_ than the value of whatever is being sold you may try to convince the purchaser to offer another card instead (by haggling, intimidating, reasoning, etc).
 You may try to convince them to draw an _additional_ card, but the test will be one step harder.
 
-If the value  of the favor card is _higher_ than the value of whatever is being sold the buyer is overpaying for some reason - they may or may not be aware that they're overpaying depending on the context.
+If the value  of the favor card is _higher_ than the value of whatever is being sold the buyer is overpaying for some reason—they may or may not be aware that they're overpaying depending on the context.
 
 | Card | Effect |
 |:----:|:-------|
@@ -109,7 +109,7 @@ Later, when improving your character, you can spend a number of improvement poin
 {{< aside example "Improving Wealth" >}}
 Taryn started play with Average wealth and wants to increase it to Well-Off.
 
-The difference in IP costs is 11 - 7, so Taryn would pay 4 IP to increase their wealth.
+The difference in IP costs is 11—7, so Taryn would pay 4 IP to increase their wealth.
 
 If Taryn wanted to instead increase their wealth from Average to Wealthy, they would pay 8 IP.
 {{< /aside >}}
@@ -117,13 +117,13 @@ If Taryn wanted to instead increase their wealth from Average to Wealthy, they w
 ## Encumbrance
 
 A character can carry a number of items equal to their max Blood with no issues.
-Carrying over this amount means they are encumbered and all tests are one step harder - they can also only ever move to somewhere nearby in a moment.
+Carrying over this amount means they are encumbered and all tests are one step harder—they can also only ever move to somewhere nearby in a moment.
 They simply cannot carry more than double their max Blood.
 
 Note that some items can increase your encumbrance maximum by making carrying items easier.
 
 {{< aside mechanical "Encumbrance and Large or Small Items" >}}
-Sometimes, it seems obvious that an object shouldn't take up a slot for each instance of that item - arrows, scrolls, daggers, etc - in these cases, either make a judgement call (if encumbrance is important to you) and say every 5 or 20 of an item counts as a slot, or make players use something like a scroll case or quiver and count that.
+Sometimes, it seems obvious that an object shouldn't take up a slot for each instance of that item—arrows, scrolls, daggers, etc—in these cases, either make a judgement call (if encumbrance is important to you) and say every 5 or 20 of an item counts as a slot, or make players use something like a scroll case or quiver and count that.
 Alternatively, consider just having each unique type of item be a slot.
 One tradeoff you can let the players make is allowing them to store their items in containers on their person, but make it take a moment to retrieve items from those containers.
 
@@ -160,13 +160,13 @@ We chose Knight for Taryn's archetype earlier, so we'll just use that equipment 
 
 That nets us some good armor, a sword and shield, a lance, a dagger, and equipment for drakeriding.
 
-To round out Taryn though, we want to pick up a lantern and two flasks of oil - it'd be nice to grab a bow and some arrows, but starting with a wealth of Poor, that's pretty risky.
+To round out Taryn though, we want to pick up a lantern and two flasks of oil—it'd be nice to grab a bow and some arrows, but starting with a wealth of Poor, that's pretty risky.
 
 We roll against Taryn's wealth (a d6) for each item in order:
 
 - For the lantern we roll a 6 and suffer no substantial loss in funds.
 - For the first flask of oil we roll a 2.
-- For the second flask, however, we roll a 1 - reducing our wealth die to a d4!
+- For the second flask, however, we roll a 1—reducing our wealth die to a d4!
   If Taryn buys anything else and rolls a 1, they'll become Destitute!
 
 Looks like Taryn _definitely_ isn't going to be starting with a bow!
@@ -186,7 +186,7 @@ When purchasing armor, its base value is equal to the AP the armor provides, unl
 
 {{< aside example "Armor In Play" >}}
 Taryn started play with a padded shirt (AP 1, d6 usage die, cheap).
-Their total AP is 1 - unless an enemy makes a called strike to un unprotected area, all incoming physical damage will be reduced by 1 automatically.
+Their total AP is 1—unless an enemy makes a called strike to un unprotected area, all incoming physical damage will be reduced by 1 automatically.
 After a fight where they were hurt, Taryn must roll for their armor to see if it has been damaged.
 They roll a 1 and the usage die reduces to a d4.
 
@@ -212,7 +212,7 @@ Later, Taryn acquires a plated cap (AP 1, d8 usage die) and decides to wear it, 
 - **Greaves:** Greaves cover your calves.
 
 {{< aside mechanical "Additional Types of Armor" >}}
-There's dozens of other ways to break down armor into smaller pieces - feel free to provide alternate types of armor wherever you want, just be mindful of total AP and cost.
+There's dozens of other ways to break down armor into smaller pieces—feel free to provide alternate types of armor wherever you want, just be mindful of total AP and cost.
 The list above isn't comprehensive, but it's about as many useful distinctions as we felt could be added without pushing choice paralysis on players.
 {{< /aside >}}
 
@@ -236,12 +236,12 @@ The list above isn't comprehensive, but it's about as many useful distinctions a
 
 {{< aside mechanical "Tweaking Armor Materials" >}}
 Pentola assumes a high-magic bronze age urban center full of artisans and dozens of cultures mashing up together to create a metropolis.
-There's no reason characters couldn't come across armor materials considered exotic for Pentola - sharkskin, griffin wool, etc.
-Be mindful that there's no indigenous domesticated mammals in the city and surrounding areas - no cows, sheep, pigs, or horses - so normal leather is a luxury good imported from elsewhere.
+There's no reason characters couldn't come across armor materials considered exotic for Pentola—sharkskin, griffin wool, etc.
+Be mindful that there's no indigenous domesticated mammals in the city and surrounding areas—no cows, sheep, pigs, or horses—so normal leather is a luxury good imported from elsewhere.
 Highlight items made from those materials as higher status or remarkable, because Pentolans would think of them that way.
 
 Particularly notable here, as with the rest of the setting, is the relative scarcity of iron.
-Iron is mostly used for it's anti-demon properties - this world does not have steel manufacture but does have plentiful sources of copper and tin for bronze.
+Iron is mostly used for it's anti-demon properties—this world does not have steel manufacture but does have plentiful sources of copper and tin for bronze.
 In Pentola, adding iron to armor and other equipment is incredibly expensive and often is more valuable as a component for magic and anti-demon applications.
 {{< /aside >}}
 
@@ -250,7 +250,7 @@ In Pentola, adding iron to armor and other equipment is incredibly expensive and
 - **Expensive:** Armor with this quality must be made to order; it is twice as valuable as normal and costs twice as much to repair.
 - **Cheap:** Armor with this quality always counts as V1 when buying and selling.
 - **Easily Repairable:** Armor with this quality is easier and cheaper to repair, but more expensive to make; roll twice on the usage die when repairing it yourself or spend one to have it repaired to full if being done professionally, but the actual value of the armor increases by one.
-- **Fashionable:** Armor with this quality makes relevant social tests one step easier - people perceive the wearer as more wealthy and high status.
+- **Fashionable:** Armor with this quality makes relevant social tests one step easier—people perceive the wearer as more wealthy and high status.
 - **Heavy:** Wearing any armor with this quality makes athletics-related actions and tests to resist fatigue one step harder. Each piece of armor with this quality takes up an additional encumbrance slot.
 - **Light:** Each piece of armor with this quality does _not_ take up an encumbrance slot.
 - **Loud:**  Wearing any armor with this quality makes stealth-related actions where being heard is a concern one step harder.
@@ -333,7 +333,7 @@ a weapon or shield with a usage die of a d4 has a value of one, each step up inc
 
 {{< aside mechanical "Weapons and Pricing" >}}
 The default rules here make weapons much more costly and valuable, especially when compared to other games.
-This is because weapons are not normally acquired by general citizens - player characters tend to get involved in all sorts of trouble and adventures that most citizens try very hard to avoid.
+This is because weapons are not normally acquired by general citizens—player characters tend to get involved in all sorts of trouble and adventures that most citizens try very hard to avoid.
 Weapons also make for pretty good treasure and can be traded for other equipment because of their expense.
 
 You could make acquiring weapons cheaper by removing the usage die cost, but be mindful that weapons are some of the most plentiful items the characters may be finding, if your game leans towards violent conflicts.
@@ -354,7 +354,7 @@ You could make acquiring weapons cheaper by removing the usage die cost, but be 
 - **Expensive:** Weapons with this quality have double their normal value and cost twice as much to repair.
 - **Easily Repairable:** Weapons with this quality are easier and cheaper to repair; roll twice on the usage die when repairing it yourself or make only one wealth roll to have it repaired to full if being done professionally.
 - **Slow (X):** Weapons with this quality are slow to reload and require X actions to do so.
-- **Fashionable:** Weapons with this quality makes relevant social tests one step easier - people perceive the wearer as more wealthy and high status.
+- **Fashionable:** Weapons with this quality makes relevant social tests one step easier—people perceive the wearer as more wealthy and high status.
 
 | Weapon              | Usage Die | Qualities                             | Value |
 |:--------------------|:---------:|:-------------------------------------:|:------|

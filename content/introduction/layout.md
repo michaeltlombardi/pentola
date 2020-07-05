@@ -25,7 +25,7 @@ A summary of the reason for the aside and useful information for the reader.
 
 ### In-World Asides
 
-Occasionally, this book will include _in-world_ asides - by which we mean these are narrative pieces or information given from the perspective of a person in Pentola.
+Occasionally, this book will include _in-world_ asides—by which we mean these are narrative pieces or information given from the perspective of a person in Pentola.
 They will always be rendered like this:
 
 {{< aside inworld "On Pentolan Literacy" >}}
@@ -34,9 +34,9 @@ This is, _obviously_, false.
 
 For example, I am a Pentolan, and I'm writing this field guide.
 
-There is, however a grain of truth - the vast and multitudinous population of our city does not, largely, know how to read and write.
+There is, however a grain of truth—the vast and multitudinous population of our city does not, largely, know how to read and write.
 Nor do they need to!
-Most of them have apprenticed to a Guild or learned the Craft from a family member or friend - and we teach all of our children the _Auratic Vision_ and _Message_ dweomers, of course.
+Most of them have apprenticed to a Guild or learned the Craft from a family member or friend—and we teach all of our children the _Auratic Vision_ and _Message_ dweomers, of course.
 
 Most Pentolans never learn to read not, as the Aydlinars would have you believe, because their lack of enlightenment leaves them unable to do so, but _simply because it isn't necessary_.
 
@@ -45,7 +45,7 @@ Most Pentolans never learn to read not, as the Aydlinars would have you believe,
 
 ### Game Design Notes
 
-It is useful for us to include notes on the intended design and function of the game - and to help you understand how and why you might alter these rules to suit your table.
+It is useful for us to include notes on the intended design and function of the game—and to help you understand how and why you might alter these rules to suit your table.
 They will always be rendered like this:
 
 {{< aside mechanical "Design Concept" >}}

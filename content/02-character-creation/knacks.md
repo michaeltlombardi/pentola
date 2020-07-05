@@ -3,7 +3,7 @@ title: "Knacks"
 weight: 90
 ---
 
-Knacks are special abilities characters can possess, tied to _who they are_ and _what they repeatedly do_ - a character's knacks are a statement about a character's _gestalt_, the qualities which are more than the sum of a character's individual parts.
+Knacks are special abilities characters can possess, tied to _who they are_ and _what they repeatedly do_—a character's knacks are a statement about a character's _gestalt_, the qualities which are more than the sum of a character's individual parts.
 Knacks derive from personality traits, behaviors, vocations, and core beliefs.
 
 Characters begin play with a randomly determined knack at magnitude 3.

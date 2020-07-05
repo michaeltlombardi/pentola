@@ -4,8 +4,8 @@ date: 2020-05-14T16:53:40-05:00
 weight: 40
 ---
 
-While playing it's sometimes useful to break time down mechanically - during fights or tense moments, for example.
-Largely though, play passes at whatever speed makes sense for the adventure and action - minutes may pass, or hours, or weeks.
+While playing it's sometimes useful to break time down mechanically—during fights or tense moments, for example.
+Largely though, play passes at whatever speed makes sense for the adventure and action—minutes may pass, or hours, or weeks.
 
 When you need to mechanize time for an action scene, it breaks down like this:
 
@@ -43,9 +43,9 @@ The initiative test is treated like a multiple-participant opposed test.
 The participant whose result is _worst_ declare their actions and reactions first.
 The participant whose result is _next worst_ declares their actions and reactions next, and so on until the participant with the best result declares their action and any reaction.
 
-Then, in reverse order, the actions take effect - so the character who declared last acts first and the character who declared first acts last.
+Then, in reverse order, the actions take effect—so the character who declared last acts first and the character who declared first acts last.
 
-Note that initiative doesn't always mean combat - you might break into initiative when chasing someone, or racing to an objective, or trying to provide a distraction, etc.
+Note that initiative doesn't always mean combat—you might break into initiative when chasing someone, or racing to an objective, or trying to provide a distraction, etc.
 
 {{< aside example "Initiative with Two Combatants" >}}
 Toph and Tarasi are sparring.
@@ -61,7 +61,7 @@ Toph declares next; since he knows Tarasi will kick at him, he declares he will 
 
 Toph is able to try to elbow Tarasi first.
 He succeeds on his test, inflicting damage.
-Tarasi attempts to kick Toph and succeeds on her test with a 21, but Toph also succeeds on his dodge (27) and his result is higher - therefore she does no damage.
+Tarasi attempts to kick Toph and succeeds on her test with a 21, but Toph also succeeds on his dodge (27) and his result is higher—therefore she does no damage.
 
 The next moment starts and they both roll for initiative again and repeat the cycle.
 {{< /aside >}}
@@ -86,10 +86,10 @@ The initiative mechanic is one which is harder and longer to explain than it is 
 In practice, it does a few things:
 
 - It keeps combat dynamic, ensuring each round the initiative order will likely change.
-- It rewards players for paying attention to what everyone in the combat is doing - you can only react to actions lower in the initiative order, or play off other actions.
-- It ratchets up tension - the unpredictability and potential for dangerous combinations of actions make for more lethal combat.
+- It rewards players for paying attention to what everyone in the combat is doing—you can only react to actions lower in the initiative order, or play off other actions.
+- It ratchets up tension—the unpredictability and potential for dangerous combinations of actions make for more lethal combat.
 
-It has a higher cognitive load on the referee and players than traditional or side-based initiative, but in practice it's manageable for fewer than a dozen combatants - which is where traditional initiative systems break down too.
+It has a higher cognitive load on the referee and players than traditional or side-based initiative, but in practice it's manageable for fewer than a dozen combatants—which is where traditional initiative systems break down too.
 
 My method for tracking it is to record the results for each participant on a piece of paper or in a text document, putting lower results lower on the page than higher ones.
 I then mark each result with an **S** for success (if the participant succeeded on their roll), a **CS** for critical success, or an **F** for a failure.

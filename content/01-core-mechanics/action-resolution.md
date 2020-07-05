@@ -8,7 +8,7 @@ In Pentola ambiguous actions are resolved by following the **Intent-Approach-Adj
 
 ## Intent
 
-The player declares what their character is trying to accomplish - what outcome they want from the action or scene.
+The player declares what their character is trying to accomplish—what outcome they want from the action or scene.
 
 {{< aside example "Declaring Intent" >}}
 Chris is playing as Giuseppe "Porkslope" Esposito, a guerilla art-mage who uses his skill and magic boots to lay traps.
@@ -21,7 +21,7 @@ At this point, Chris has declared Porkslope's intent.
 
 ## Approach
 
-Once the intent is known, the player must explain their approach - how the character will attempt to realize their intent through action.
+Once the intent is known, the player must explain their approach—how the character will attempt to realize their intent through action.
 
 {{< aside example "Explaining Approach" >}}
 Chris is playing as Giuseppe "Porkslope" Esposito, a guerilla art-mage who uses his skill and magic boots to lay traps.
@@ -41,15 +41,15 @@ Other approaches Chris could've tried to fulfill Porkslope's intent:
 
 ## Adjudicate
 
-Once the intent and approach are known the referee is then - and only then - able to begin to adjudicate the action.
+Once the intent and approach are known the referee is then—and only then—able to begin to adjudicate the action.
 
 First, the referee will decide if a test of some sort is neccessary.
 A test is necessary only under the following conditions:
 
 1. The action as defined by the intent and approach together can fail.
-   - If the combination of intent and approach can't reasonably fail - for example, reaching the second level of a tree house by climbing the ladder - there's _no_ reason to call for a test.
+   - If the combination of intent and approach can't reasonably fail—for example, reaching the second level of a tree house by climbing the ladder—there's _no_ reason to call for a test.
 2. The action as defined by the intent and approach together can succeed.
-   - If the combination of intent and approach can't reasonably succeed - for example, reaching the second level of a tree house by digging at the base of the tree - there's _no_ reason to call for a test.
+   - If the combination of intent and approach can't reasonably succeed—for example, reaching the second level of a tree house by digging at the base of the tree—there's _no_ reason to call for a test.
 3. The action as defined by the intent and approach can succeed, could fail, and failure has meaningful consequences.
    - If the consequences of failure are that the character must try again and again until success, those are not meaningful consequences.
     Note that the same intent and approach may have meaningful consequences under one set of conditions but not under another.
@@ -64,7 +64,7 @@ Depending on the referee and the game, here are a few ways this could go:
 
 - The referee decides that the guard knows the spire is due for a cleaning and that Porkslope's explanation seems to fit right in.
   There is no reasonable chance of failure, so the referee announces that the guard lets Porkslope pass.
-- The referee decides that the guard has already worked with the spire-cleaners' guild before and knows their customs and attire - and Porkslope matches neither.
+- The referee decides that the guard has already worked with the spire-cleaners' guild before and knows their customs and attire—and Porkslope matches neither.
   There is no reasonable chance of success, so the referee announces that the guard is going to try to detain Porkslope for further questioning.
 - The referee decides that the guard's neither particularly knowledgeable nor lax in her duties, so Porkslope can try to convince her and this will require a test.
   Note that in this example Porkslope could succeed, in which case he can continue, or could fail, in which case the guard's suspicions will be aroused.
@@ -90,7 +90,7 @@ Cerise, a strong and experienced mercenary, is attempting to get past a locked d
    The referee decides that a test is required and directs Cerise to test against her Bone, adding any relevant bonuses she may have.
 3. Cerise is locked into a steel vault and needs to escape.
    In this scenario failure to kick open the door means that Cerise remains locked in the vault.
-   However, the referee notes that the vault door is nearly a foot thick and that Cerise's stated approach - kicking down the door - is simply impossible.
+   However, the referee notes that the vault door is nearly a foot thick and that Cerise's stated approach—kicking down the door—is simply impossible.
    The referee declares that Cerise kicks the steel door but fails to open it.
 {{< /aside >}}
 
@@ -104,16 +104,16 @@ Caleb is attempting to convince the guard to share some gossip using several dif
    The referee decides that this approach _could_ work, but isn't particularly more or less likely to do so.
    The referee therefore calls for an Flax test to pull off the minor deception.
 2. Caleb wants to approach the guard with a smoke and a friendly smile before mentioning the topic of gossip off-handedly.
-   The referee knows that the guard is young and slightly ill disciplined  - and decides that the guard is particularly susceptible to this method.
+   The referee knows that the guard is young and slightly ill disciplined —and decides that the guard is particularly susceptible to this method.
    The referee therefore calls for an easy Flax test, allowing Caleb to double his goal for this test.
 3. Caleb wants to intimidate the guard into sharing the gossip by being physical and not-quite threatening him.
-   The referee knows that the guard is young, slightly ill disciplined, and has a lot to prove - and therefore determine that this method is particularly unlikely to get the fulfill the desired intent.
+   The referee knows that the guard is young, slightly ill disciplined, and has a lot to prove—and therefore determine that this method is particularly unlikely to get the fulfill the desired intent.
    The referee therefor calls for Caleb to make a hard Flax test, forcing Caleb to cut his goal for this test in half.
 {{< /aside >}}
 
-If the result of the test is less than 1/10 the test's goal, it is a **triumph** - the _best possible_ result based on the character's intentions.
+If the result of the test is less than 1/10 the test's goal, it is a **triumph**—the _best possible_ result based on the character's intentions.
 
-If the result of the test is 100, it is a **botch** - the _worst possible_ result based on the character's intentions.
+If the result of the test is 100, it is a **botch**—the _worst possible_ result based on the character's intentions.
 
 ## Opposed Tests
 

@@ -28,7 +28,7 @@ A simple tweak to this is to just make practice/research a downtime action and e
 Once per adventure when a character makes a normal or harder test and uses a relevant skill bonus, make a mark beside that skill.
 At the end of each adventure, roll a d100 for each skill you marked during play.
 
-+ If the result of the roll is higher than the skill bonus, you have improved it - in this case, increase the bonus by 3.
++ If the result of the roll is higher than the skill bonus, you have improved it—in this case, increase the bonus by 3.
 + If the result is lower, the character has not learned enough to improve.
 
 **Every time** you botch a test using a skill, add 5 to the skill bonus.
@@ -51,7 +51,7 @@ The player rolls 1D100 for each skill:
 Every time a character takes an action which is witnessed and could reinforce a character's reputation, make a mark to the right of the reputation on your character sheet.
 Every time a character takes an action which is witnessed and could degrade a character's reputation, make a mark to the left of the reputation on your character sheet.
 
-After each adventure, note the total marks against each of the character's reputations - one mark which reinforces it cancels out one which degrades it.
+After each adventure, note the total marks against each of the character's reputations—one mark which reinforces it cancels out one which degrades it.
 Roll a d100 for each remaining mark.
 If the mark is to the right of the reputation and the result is higher than the reputation bonus, increase it by 3.
 If the mark is to the left of the reputation and the result is lower than the reputation bonus, decrease it by 3.
@@ -66,7 +66,7 @@ Alternatively, you could just shift the reputation bonus by 3 with each action a
 Every time a character fulfills an obligation or grants a favor to an ally, dependent or organization, thwarts an enemy or is thwarted by them, make a mark to the right of the relationship on your character sheet.
 Every time a character fails an ally, dependent, or organization, or ignores an enemy threat, make a mark to the left of the relationship on your character sheet.
 
-After each adventure, note the total marks against each of the character's relationships - one mark which reinforces it cancels out one which degrades it.
+After each adventure, note the total marks against each of the character's relationships—one mark which reinforces it cancels out one which degrades it.
 Roll a d100 for each remaining mark.
 If the mark is to the right of the relationship and the result is higher than the relationship bonus, increase it by 3.
 If the mark is to the left of the relationship and the result is lower than the relationship bonus, decrease it by 3.
