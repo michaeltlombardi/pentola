@@ -28,3 +28,10 @@ table.rolltable caption button {
   display: inline-block;
   left: 10px;
 }
+
+table.rolltable caption p.table-caption {
+  background: #EEEEEE;
+  font-style: italic;
+  font-size: 0.75rem;
+  display: flow-root;
+}
