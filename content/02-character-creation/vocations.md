@@ -3,7 +3,7 @@ title: "Vocations"
 weight: 50
 ---
 
-Characters each have a vocation - a calling or an occupation to which a character is inexorably drawn and which helps to define them.
+Characters each have a vocation—a calling or an occupation to which a character is inexorably drawn and which helps to define them.
 
 Whenever your character is faced with a test which can be reasonably argued to be relevant to their vocation you may add your vocation bonus to the test's goal.
 

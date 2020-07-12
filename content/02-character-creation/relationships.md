@@ -16,7 +16,7 @@ You have a relationship bonus with each of these equal to 25%.
   GMs should determine the maximum scale of an organization, which could be as great as a whole nation, or just a small wandering band of minstrels.
 
 {{< aside mechanical "Relationships and Hooks" >}}
-Relationships are intended to provide the referee - and the players - with hooks and handholds by which to attach characters to the city.
+Relationships are intended to provide the referee—and the players—with hooks and handholds by which to attach characters to the city.
 An Ally should provide information or jobs, a dependent should get into trouble frequently, an enemy should try to inconvenience or harm the character and thwart their goals, and organizations should actively generate problems and opportunities alike.
 
 Interacting with established relationships is one of the primary means by which characters gain improvement points, so keep that in mind.
@@ -32,7 +32,7 @@ Further, after a botch, the player cannot call on a relationship for rest of the
 In the case of enemies this means that they have accidentally aided them in some way.
 
 You can purchase new relationships later with improvement points for the cost listed; new relationships start at a bonus of 10%.
-New relationships may arise from play - in these cases, they start at 5%.
+New relationships may arise from play—in these cases, they start at 5%.
 
 | Relationship | IP Cost | Advantages | Disadvantages |
 |:------------:|:-------:|:-----------|:--------------|
@@ -50,14 +50,14 @@ During Taryn's first session it becomes clear that lacking a proper weapon (Tary
 Taryn asks their aunt, Rose, for a loaner weapon and makes a relationship test.
 Taryn's Iron is 18, to which they add their relationship bonus, 25%, for a total goal of 43%.
 
-Taryn rolls a 32 and the referee declares that Aunt Rose lends an old shortsword and a spare longbow to Taryn - on the condition that Taryn must succeed in the trials to join the Wardens or return the weapons upon failure.
+Taryn rolls a 32 and the referee declares that Aunt Rose lends an old shortsword and a spare longbow to Taryn—on the condition that Taryn must succeed in the trials to join the Wardens or return the weapons upon failure.
 
-Later in the adventure, Taryn is ambushed in an alley by Spy, who has been paid by the father of a man Rose killed in a judicial duel - Taryn has inherited their aunt's enemies.
+Later in the adventure, Taryn is ambushed in an alley by Spy, who has been paid by the father of a man Rose killed in a judicial duel—Taryn has inherited their aunt's enemies.
 {{< /aside >}}
 
 {{< aside mechanical "Starting Relationship Details" >}}
 It can be a bit daunting to spin out several detailed relationships all at once.
-One useful way to handle this is to collaboratively add details to the relationships in play - that is, when you think your ally would first be useful to your character or the game generally, invoke them and flesh them out on the fly with your referee.
+One useful way to handle this is to collaboratively add details to the relationships in play—that is, when you think your ally would first be useful to your character or the game generally, invoke them and flesh them out on the fly with your referee.
 The referee, in turn, is encouraged to think of times when your relationships would drive interesting choices for your character, be helpful in moving things forward, or throw problems into the fiction for you and the other players to handle.
 
 In either case, don't feel like you need to have several pages of relationship context built up to use a relationship;
@@ -143,7 +143,7 @@ Note that an organization can also be your enemy.
 ## Organization
 
 To randomly generate an organization, roll 1D4 to determine the type of organization, then roll on the related table to determine details about it.
-Use those details as the skeleton of ideas to flesh out a group of people in the world - Pentola is enormous and varied, far too large and fractured to detail every organization you might encounter.
+Use those details as the skeleton of ideas to flesh out a group of people in the world—Pentola is enormous and varied, far too large and fractured to detail every organization you might encounter.
 
 | 1D4 | Table to Roll On |
 |:----:|:----------------:|
@@ -161,7 +161,7 @@ Roll 1D12 6 times or, for fast generation, roll 1d12 and read straight across.
 + **Symbol:** The marking used to differentiate this organization from others
 + **Color:** The primary color associated with the organization, often used in their clothes or banners
 + **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
-+ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies—members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 | Type            | Focus       | Symbol  | Color    | Reputation | Distinctive Feature      |
 |:----:|:---------------:|:-----------:|:-------:|:--------:|:----------:|:------------------------:|
@@ -191,11 +191,11 @@ We first roll 1D12 6 times to determine which details will define this organizat
 **Guardians of the True Word**
 
 A snarling bronze drake is embossed upon the doors to this old and prestigious research guild.
-The academics within practice psychohistorical magics and divination to discern the Truth of the World as it has been - they then share this interpretation with each other orally, crafting poems as records in a tongue taught only to full members of the guild.
-They are funded by students of the True Word but do not evangelize to others - they seek only to understand and share with those who share their passion.
+The academics within practice psychohistorical magics and divination to discern the Truth of the World as it has been—they then share this interpretation with each other orally, crafting poems as records in a tongue taught only to full members of the guild.
+They are funded by students of the True Word but do not evangelize to others—they seek only to understand and share with those who share their passion.
 Artists of the Word stay with the Guardians for weeks at a time, learning the new discoveries and committing them to memory, that they may go out into the world and create works which echo this truth.
 
-The Truth is never spoken aloud to outsiders, but no word spoken by a believer is ever heard only once - every syllable seems to echo in the air, no matter how hushed the tone.
+The Truth is never spoken aloud to outsiders, but no word spoken by a believer is ever heard only once—every syllable seems to echo in the air, no matter how hushed the tone.
 {{< /aside >}}
 
 ### Religious Organizations
@@ -203,11 +203,11 @@ The Truth is never spoken aloud to outsiders, but no word spoken by a believer i
 Roll 1D12 6 times or, for fast generation, roll 1d12 and read straight across.
 
 + **Type:** The institution of the organization that defines its structure
-+ **Primary Domain:** The main focus of the religious group in this institution - they may have others, but this is what they're _most_ known for.
++ **Primary Domain:** The main focus of the religious group in this institution—they may have others, but this is what they're _most_ known for.
 + **Symbol:** The marking used to differentiate this organization from others
 + **Preferred Sacrifice:** The sacrifice that is considered most valuable to this organization
 + **Cleric Attire:** Ranking members of religious organizations are often visible by a special item of clothing
-+ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies—members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 | Type        | Primary Domain | Symbol   | Preferred Sacrifice | Cleric Attire | Distinctive Feature      |
 |:----:|:-----------:|:--------------:|:--------:|:-------------------:|:-------------:|:------------------------:|
@@ -238,12 +238,12 @@ We first roll 1D12 6 times to determine which details will define this organizat
 
 The adherents of Nianzhen, the Mermaid Queen, are a terrifying force in the canals and spires of Pentola.
 These devout souls carry their holy symbol, a two foot long solid bronze trout, as a weapon and a warning.
-They stalk the city in deep red robes and seek out those who would break Nianzhen's commandments - which change daily depending on the inquisitor.
+They stalk the city in deep red robes and seek out those who would break Nianzhen's commandments—which change daily depending on the inquisitor.
 
 They practice their faith by routinely drowning and reviving each other in an attempt to get closer to Her Aquatic Majesty and understand her mysteries more completely.
-Their only unwavering belief is that art, especially statues, are an affront to Her - after all, water is formless.
+Their only unwavering belief is that art, especially statues, are an affront to Her—after all, water is formless.
 
-Even when out of their vestments these pious interlocutors are visible by their massive ears - all the better to hear blasphemy on the lips of citizens...
+Even when out of their vestments these pious interlocutors are visible by their massive ears—all the better to hear blasphemy on the lips of citizens...
 {{< /aside >}}
 
 ### Guild
@@ -255,7 +255,7 @@ Roll once on the [Vocations](../vocations-and-skills) table to determine the pri
 + **Symbol:** The marking used to differentiate this organization from others
 + **Value:** The core value of the organization which informs their decisions and structure
 + **Color:** The primary color associated with the organization, often used in their clothes or banners
-+ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies—members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 |    Type     | Reputation  |   Symbol  |    Value     |  Color   |    Distinctive Feature     |
 |:----:|:-----------:|:-----------:|:---------:|:------------:|:--------:|:--------------------------:|
@@ -287,7 +287,7 @@ This group of sailors specialize in the Craft as applied to sailing, and moreove
 Wherever Conjurers of the Peaceful Waves are found, so too are fantastic ropes, sails, anchors, lanterns, and all sorts of other equipment.
 The Conjurers lose their left pinky as they advance in the organization, the digit turning a brilliant blue and slowly disintegrating as they improve their skills.
 
-The Conjuration gathers in beautifully crafted halls across Pentola and even has a few halls in other lands and cities - anywhere the seas need crossing.
+The Conjuration gathers in beautifully crafted halls across Pentola and even has a few halls in other lands and cities—anywhere the seas need crossing.
 They are serious competitors for any and all other groups and guilds who make goods for seafaring.
 {{< /aside >}}
 
@@ -300,7 +300,7 @@ Roll 1d12 6 times or, for fast generation, roll 1d12 and read straight across.
 + **Reputation:** The strongest belief outsiders have about the organization's behaviors and beliefs
 + **Value:** The core value of the organization which informs their decisions and structure
 + **Focus:** The purpose of the organization, what it primarily spends its effort on
-+ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies - members of organizations tend to acquire one or more distinctive features over time.
++ **Distinctive Feature:** In Pentola the beliefs and repeated behaviors of people change their bodies—members of organizations tend to acquire one or more distinctive features over time.
 
 | 1D12 |    Shape   |  Symbol  |  Reputation  |    Value   |     Focus     |   Distinctive Feature    |
 |:----:|:----------:|:--------:|:------------:|:----------:|:-------------:|:------------------------:|

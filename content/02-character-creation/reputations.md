@@ -18,7 +18,7 @@ In some cases, a reputation may even make a test unnecessary.
 Characters begin play with two reputations, either from the table below or of your choice, both starting at 25%.
 
 Every time a character performs an action where the action can be observed or recorded _and_ the action could either reinforce or disabuse observers of the reputation, place a mark to the right (if the action could reinforce the reputation) or the left (if the action could disabuse observers of the reputation).
-At the completion of a quest or when beginning an interlude - whenever there’s a sensible break in the quest to reflect and take time to recover - players should roll 1D100 for each mark beside their reputations.
+At the completion of a quest or when beginning an interlude—whenever there’s a sensible break in the quest to reflect and take time to recover—players should roll 1D100 for each mark beside their reputations.
 
 For each mark to the left of the reputation, roll 1d100.
 If the result of the roll is lower than the reputation, decrease the reputation by 3.
@@ -31,10 +31,10 @@ Characters can have any number of different reputations.
 
 {{< aside mechanical "Reputations and Character Agency" >}}
 A reputation is a statement about what people _think_ of the character, not **necessarily** about how the character conceives of themselves.
-Sometimes a character will want to build a reputation that doesn't match their behavior - perhaps they pay for songs to be written about them, or rumors, or they make public performances - and sometimes a character will have a reputation they _don't_ want.
+Sometimes a character will want to build a reputation that doesn't match their behavior—perhaps they pay for songs to be written about them, or rumors, or they make public performances—and sometimes a character will have a reputation they _don't_ want.
 
-Reputations are also a feedback mechanism for character behavior - the choices the characters make have an impact on how the world perceives them.
-It's particularly useful to have NPCs in the world recognize the characters by reputation or to remark / key in on them - in this way, reputations are also a tool for referees to use to figure out how an NPC might behave towards characters.
+Reputations are also a feedback mechanism for character behavior—the choices the characters make have an impact on how the world perceives them.
+It's particularly useful to have NPCs in the world recognize the characters by reputation or to remark / key in on them—in this way, reputations are also a tool for referees to use to figure out how an NPC might behave towards characters.
 
 Whenever characters do anything particularly notable it's a good idea to grant them a new reputation to account for it.
 {{< /aside >}}
