@@ -7,13 +7,19 @@ Characters in Pentola have three characteristics: Iron, Flax, Bone.
 
 + **Iron:** In Pentola, iron is both rare and precious as it has apparent metamagical and demon-abjuring properties; any magic effects are more portant when iron is incorporated in the application and demons of all sorts shy away from iron as it ignores their abilities and defenses.
   Iron represent's a character's force of will, presence, and metaphysical aptitude.
+  When someone is _heavy_ with iron, they're powerful personally and magically, a noticeable presence in any room.
+  If they're _light_ on iron, they may slip by unnoticed or unremarked.
   Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon iron >}}
 + **Flax:** is a crop which represents so much of human ingenuity—one of the earliest and most widespread crops domesticated, flax supplies the Pentolans with food, oil, cloth, paper, and paint; it represents ingenuity, industry, trade, craft, and knowledge to the Pentolans.
-Flax represents a character's mental prowess and training, including their knowledge and intuition.
-Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon flax >}}
+  Flax represents a character's mental prowess and training, including their knowledge and intuition.
+  When someone is _stuffed_ with flax, they're knowledgeable and well trained, able to apply their knowledge in all sorts of situations.
+  If they're _meager_ with flax, they lack training and education and have to rely on their more limited direct experience and first-hand knowledge to see them through.
+  Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon flax >}}
 + **Bone:** Pentolans are not strangers to danger or hard work and associate bone with both, priding themselves on their physical daring and the use of their bodies to accomplish their tasks, though they are ever mindful of their own ultimate fragility.
-Bone represents a character's physical prowess and training, including their strength, agility, hand-eye coordination, etc.
-Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon bone >}}
+  Bone represents a character's physical prowess and training, including their strength, agility, hand-eye coordination, etc.
+  When someone's _strong-boned_, they are fast, powerful, flitting from danger to danger with ease and grace.
+  When they're _brittle-boned_, they are unable to overcome strenuous physical obstacles, having to rely on their other resources to get things done.
+  Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon bone >}}
 
 Characteristics are the base goal for tests.
 

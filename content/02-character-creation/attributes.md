@@ -8,12 +8,12 @@ These are pools of points which represent your ability to sustain damage (in the
 
 + **Blood:** Add your character's Bone and Iron—the 'tens' digit is their Blood.
   In Pentola, citizens refer to how thick or thin someone's blood is as a metaphor for how tough they are, or how much danger seems to affect them.
-  People who are thick-blooded stride through dangers recklessly, coming out relatively unscathed, and survive injuries you would expect to be lethal.
-  When someone's luck seems to be running out in a fight, Pentolans will oft remark on their thinning blood.
+  People who are _thick-blooded_ stride through dangers recklessly, coming out relatively unscathed, and survive injuries you would expect to be lethal.
+  When someone's luck seems to be running out in a fight, Pentolans will oft remark on their _thinning_ blood.
   Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon blood >}}
 + **Tephra:** Add your character's Flax and Iron—the 'tens' digit is their Tephra.
-  Pentolans describe people as being heavy with Tephra if they are intrinsically powerful or adept at magic, believing them to be literally full of magic.
-  If someone is light on Tephra or has been dropping it, Pentolans believe they are not capable of much more magic... at least, not without thinning their blood dangerously.
+  Pentolans describe people as being _hot_ with Tephra if they are intrinsically powerful or adept at magic, believing them to be literally full of the magic they associate with the warmth of the volcanic chambers beneath the city.
+  If someone's Tephra is _cooled_, Pentolans believe they are not capable of much more magic... at least, not without thinning their blood dangerously.
   Throughout these rules and in supporting documents you may see it written with the following glyph: {{< icon tephra >}}
 
 {{< aside example "Determining Attributes for Taryn" >}}
