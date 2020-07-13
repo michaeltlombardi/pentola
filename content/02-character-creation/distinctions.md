@@ -10,7 +10,7 @@ The following table give you a bit of background you can use to make your charac
 As with all of the other character creation tables, you are _not obligated_ to use them!
 You can roll on them, choose from them, make up distinctions of your own, or otherwise start play with something more of a blank slate.
 
-{{< rolltable distinctions "Roll d100 for each distinction or roll once & read straight across." >}}
+{{< rolltable distinctions "Roll dz% for each distinction or roll once & read straight across." >}}
 
 <!-- {icon=dice-d20}
 G> #### Example: Determining quirks and Ambitions for Taryn

@@ -49,8 +49,8 @@ Note that initiative doesn't always mean combat—you might break into initiativ
 
 {{< aside example "Initiative with Two Combatants" >}}
 Toph and Tarasi are sparring.
-Toph has an Flax of 39 and a fencing skill bonus of 43% (total goal of 82%).
-Tarasi has an Flax of 30 and a gearslinger skill bonus of 20% (total goal of 50%).
+Toph has an Flax of 39 and a fencing skill bonus of 43.
+Tarasi has an Flax of 30 and a gearslinger skill bonus of 20.
 
 At the beginning of the moment both characters roll an initiative test and their results are compared:
 
@@ -67,7 +67,7 @@ The next moment starts and they both roll for initiative again and repeat the cy
 {{< /aside >}}
 
 {{< aside example "Initiative with Three Combatants" >}}
-As in the last example, but there's now a third combatant, Galner (Flax 30, Needlejutsu skill bonus  21%), who is teamed up with Tarasi against Toph.
+As in the last example, but there's now a third combatant, Galner (Flax 30, Needlejutsu 21), who is teamed up with Tarasi (Flax 30, Gearslinger 20) against Toph (Flax 39, Fencing 43).
 Toph's result is a 31 (success), Tarasi's a 79 (failure), and Galner's a 10 (success).
 
 Tarasi declares her action first, deciding to kick at Toph.

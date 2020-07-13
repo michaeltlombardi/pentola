@@ -29,36 +29,41 @@ The referee will determine if your action requires a test and which characterist
 Then you'll try to roll under the appropriate goal.
 Your characteristics determine your base chance of success at any given test, but you'll _usually_ be able to add a bonus from a relevant skill, vocation, or ability.
 
-You determine your starting characteristics by rolling three twenty-sided dice (3d20) for each characteristic in order.
-You roll first for Bone, then for Flax, and finally for Iron.
+You determine your starting characteristics by rolling **one dz**, which gives you your starting characteristic array.
 
-{{< aside example "Summing 3d20" >}}
-When determining a characteristic you roll 3d20.
-Assuming you rolled a **13**, a **7**, and a **16**, the sum of these results would be **36**.
-{{< /aside >}}
+| Result | Starting Characteristics |
+|:------:|:------------------------:|
+| 1      | {{< icon iron >}} 20 {{< icon flax >}} 30 {{< icon bone >}} 40
+| 2      | {{< icon iron >}} 40 {{< icon flax >}} 20 {{< icon bone >}} 30
+| 3      | {{< icon iron >}} 30 {{< icon flax >}} 40 {{< icon bone >}} 20
+| 4      | {{< icon iron >}} 23 {{< icon flax >}} 33 {{< icon bone >}} 43
+| 5      | {{< icon iron >}} 43 {{< icon flax >}} 23 {{< icon bone >}} 33
+| 6      | {{< icon iron >}} 33 {{< icon flax >}} 43 {{< icon bone >}} 23
+| 7      | {{< icon iron >}} 26 {{< icon flax >}} 36 {{< icon bone >}} 46
+| 8      | {{< icon iron >}} 46 {{< icon flax >}} 26 {{< icon bone >}} 36
+| 9      | {{< icon iron >}} 36 {{< icon flax >}} 46 {{< icon bone >}} 26
+| ☀️️️️️️️     | {{< icon iron >}} 29 {{< icon flax >}} 39 {{< icon bone >}} 49
+| 🌑     | {{< icon iron >}} 49 {{< icon flax >}} 29 {{< icon bone >}} 39
+| 0      | {{< icon iron >}} 39 {{< icon flax >}} 49 {{< icon bone >}} 29
 
-A **30** in a characteristic is the average for a person—higher scores are above average—and a **75** is the absolute upper bound of anyone not affected by special abilities or conditions.
+A **36** in a characteristic is the average for a person--higher scores are above average--and a **90** is the absolute upper bound of anyone not affected by special abilities or conditions.
 
 {{< aside mechanical "On Starting Characteristics" >}}
-We use 3d20 to determine characteristics for a couple reasons:
+At first glance, this table seems like it might be a bit unfair, giving better rolls significantly better starting characteristics.
+If you wanted to approximate more of a bell curve, you could roll 6d12 for each stat and add that together in dozenal... but that would be painfully bad math to try to do at the table.
 
-1. Homage—this plays into the history of the hobby, where players roll 3d6 to determine their attributes.
-2. A bell curve—this will tend to give results near 30, with few characters who have characteristics either very high or very low.
+Besides that, the bell curve would mostly give you results from about 18 to 50 in dozenal--notably having a lower and upper bounds below this result set.
 
-Note that this applies to _humans_, but that other creatures—demons, monsters, etc—can and _probably should_ have their characteristics determined by a different formula.
-For example, a minotaur might roll 7d12 for their body and power but only 3d10 for their intellect.
-Similarly, a stormraven might have a body of 1d12+12, an intellect of 2d20, and a power of 5d20.
-
-You could modify this to create more heroic player characters—2d20+20 will tend to create characters with average characteristics around 40.
-This isn't the default because Pentola leans into the lethality and danger of combat and magic.
+Pentola leans somewhat more into the underdog upstart tropes as written.
+To give players a more heroic start you could increase their distribution above by a dozen, giving a spread of 30-59 instead of 20-49.
 {{< /aside >}}
 
 {{< aside example "Determining Characteristics for Taryn Carozza" >}}
-To determine Taryn's characteristics, we roll 3d20 each for {{< icon iron >}}, {{< icon flax >}}, and {{< icon bone >}}:
+To determine Taryn's characteristics, we roll a dz and get a ☀️️️️️️️:
 
-{{< icon iron 1.5em 1.5em >}} <strong>18</strong> -- basic <br />
-{{< icon flax 1.5em 1.5em >}} <strong>44</strong> -- comprehensive <br />
-{{< icon bone 1.5em 1.5em >}} <strong>51</strong> -- <em>extraordinary!</em>
+{{< icon iron 1.5em 1.5em >}} <strong>29</strong> <br />
+{{< icon flax 1.5em 1.5em >}} <strong>39</strong> <br />
+{{< icon bone 1.5em 1.5em >}} <strong>49</strong>
 
-At the beginning of play Taryn has significantly less personal power than most people, has an average education and knowledge-base, and is stronger, tougher, and more agile than most people.
+At the beginning of play Taryn has a bit less personal power than most people, has an average education and knowledge-base, and is stronger, tougher, and more agile than most people.
 {{< /aside >}}

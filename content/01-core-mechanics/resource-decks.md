@@ -1,29 +1,8 @@
 ---
-title: "Usage Die and Resource Decks"
+title: "Resource Decks"
 date: 2020-05-14T16:53:30-05:00
 weight: 30
 ---
-
-## Usage Die
-
-Some special abilities and items will specify that they have a usage die.
-
-Immediately after using an ability with a usage die, or one minute after using an item with one, roll the appropriate usage die.
-If the roll is a 1 then the usage die is downgraded to the next lower die in the following chain:
-
-> **d20 > d12 > d10 > d8 > d6 > d4**
-
-When you roll a 1 on a d4 the item or ability is expended and the character has no more uses of it left.
-
-{{< aside example "Using Your Usage Die" >}}
-After Carina uses herbs from her kit to brew a tea to make the shopkeep more susceptible to her influence she must roll the usage die for her herbs, a d8.
-Carina rolls the d8 which lands on a 1, meaning that one use from her herbal kit is gone.
-The kit's usage die is reduced by one step to a d6, meaning the next time it is used Carina will roll that die instead.
-
-If instead Carina had rolled a 2 or higher the usage die would remain a d8.
-{{< /aside >}}
-
-## Resource Decks
 
 Sometimes, a character needs to expend tangible resources to acquire something or perform an action, typically when the item or ability has an associated cost.
 This can be represented via decks of cards.

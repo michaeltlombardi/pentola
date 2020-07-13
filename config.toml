@@ -1,6 +1,6 @@
 baseURL = "http://pentola.netlify.com/"
 languageCode = "en-us"
-title = "Pentola: City of Shards"
+title = "Pentola"
 theme = "hugo-theme-learn"
 
 [outputs]
@@ -20,9 +20,9 @@ home = ["HTML", "RSS", "JSON"]
   # See the config.toml file from this documentation site to have an example.
   editURL = ""
   # Author of the site, will be used in meta information
-  author = ""
+  author = "Michael T. Lombardi"
   # Description of the site, will be used in meta information
-  description = ""
+  description = "Pentola is a high fantasy game where you play citizens embroiled in intrigue and adventure in a bronze age megalopolis, and where your choices and beliefs shape reality"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
@@ -46,3 +46,21 @@ home = ["HTML", "RSS", "JSON"]
   themeVariant = ""
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
   custom_css = ["css/asides.css", "css/icons.css", "css/rolltables.css"]
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-hourglass'></i>  Quickref"
+identifier = "qr"
+url = "/quickref"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-table'></i>  Character Keeper"
+identifier = "ck"
+url = "https://docs.google.com/spreadsheets/d/10LuRNxoBcWlAOi3quCigc9qa441Rof2EGfRAomKxCr8/edit?usp=sharing"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "gh"
+url = "https://github.com/michaeltlombardi/pentola"
+weight = 30
